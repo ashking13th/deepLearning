@@ -34,3 +34,6 @@ Read the Docs
 config.rst
 venv
 .venv
+
+*/classes
+*/MNIST_data
