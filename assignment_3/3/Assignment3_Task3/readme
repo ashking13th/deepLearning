@@ -1,0 +1,11 @@
+file with name a3c1.py is the main file
+run it - python3.6 a3c1.py
+
+Prerequisites - python3.6(may be other versions of python can run too), cv2, tensorflow
+
+Enter the training folder name in which there will be two folders 'Data' and 'Ground_Truth'
+Enter the test folder name in which directly images will be present
+
+After testing new folder will be created having name as 'Predictions'. Its location will depend on the way path has been given if you append in the full path at last '/'(for e.g. "/home/aman/") then it will in the test folder itself otherwise(if given the test folder like this-"/home/aman" ) it will be in the directory where test folder is present.
+
+If you want to directly test the model then also the required files are present otherwise train the model the requierd files will be automatically created.
