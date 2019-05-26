@@ -38,3 +38,4 @@ venv
 */classes
 */MNIST_data
 */data
+*.npy
