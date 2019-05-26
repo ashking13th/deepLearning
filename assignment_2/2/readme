@@ -1,0 +1,2 @@
+These all are jupyter notebook files so open in jupyter notebook with python 3 kernel
+The modules that need to be installed are keras, os, cv2, numpy and matplotlib
