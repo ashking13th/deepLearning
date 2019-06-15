@@ -6,6 +6,7 @@ Assignment and Project for Deep Learning Course  CS671 at IIT Mandi
 | Assignment 1 | [Problem Sheet](./assignment_1/assignment_1_problem_sheet.pdf) |
 | Assignment 2 | [Problem Sheet](./assignment_2/assignment_2_problem_sheet.pdf) |
 | Assignment 3 | [Problem Sheet](./assignment_3/assignment_3_problem_sheet.pdf) |
+| Assignment 4 | [Problem Sheet](./assignment_4/CS671_Assignment_4__2019_.pdf) |
 
 ### Assignment 1 
 *   DataManagement-LineDatasetGeneration
