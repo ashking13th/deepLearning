@@ -11,3 +11,16 @@ Assignment and Project for Deep Learning Course  CS671 at IIT Mandi
 *   DataManagement-LineDatasetGeneration
 *   ComputationalGraphUsage-GravitySimulator
 *   LayerAPI-ASimpleNeuralNetwork
+### Assignment 2 
+*   Foundations of Convolutional Neural Networks
+*   Multi-Head Classification
+*   Network Visualization through ways like heatmaps
+
+### Assignment 3 
+*   Localization Problem
+*   Pixelwise Image Segmentation
+*   Core Point Detection in Fingerprints
+### Assignment 4 
+*   Basic RNN
+*   Playing with RNNs
+*   Text Generation
